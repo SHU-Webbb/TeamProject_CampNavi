@@ -21,4 +21,4 @@
 [CampingNavi 기획 문서](https://docs.google.com/spreadsheets/d/e/2PACX-1vTukNKCyO-nEiRV6g9oUAzUQ1jhPAkBVJRFgqlHMOZ7pxlS6P1NXX6WtYXjZMpfBbpzZEWjRt95lQ2M/pubhtml)
 
 ### PPT 살펴보기
-[CampingNavi PPT 문서](https://github.com/SHU-Webbb/TeamProject_CampNavi/Document/LeeSiWoo-CampNavi.pdf)
+[CampingNavi PPT 문서](Document/LeeSiWoo-CampNavi.pdf)
