@@ -18,4 +18,7 @@
 <strong>프로젝트 기획 문서</strong>
 
 ### 요구사항 정의서 살펴보기
-[CampingNavi 기획 문서.pdf](https://docs.google.com/spreadsheets/d/e/2PACX-1vTukNKCyO-nEiRV6g9oUAzUQ1jhPAkBVJRFgqlHMOZ7pxlS6P1NXX6WtYXjZMpfBbpzZEWjRt95lQ2M/pubhtml)
+[CampingNavi 기획 문서](https://docs.google.com/spreadsheets/d/e/2PACX-1vTukNKCyO-nEiRV6g9oUAzUQ1jhPAkBVJRFgqlHMOZ7pxlS6P1NXX6WtYXjZMpfBbpzZEWjRt95lQ2M/pubhtml)
+
+### PPT 살펴보기
+[CampingNavi PPT 문서](https://docs.google.com/presentation/d/e/2PACX-1vR-hCSBTlPrXZYFlbXXdfTmbMADQM6Wb-NQix1mKwSEUWB5lC6b0wLFam7Q0Ccd3SOSpuwDXbUn9vIb/pub?start=false&loop=false&delayms=3000)
